@@ -1,0 +1,11 @@
+# Ignore everything in the data folder
+data/*
+
+# Ignore everything in the doc folder
+doc/*
+
+# Ignore everything in the notebooks folder
+notebooks/*
+
+# Ignore files with .html extension
+*.html
