@@ -6,6 +6,7 @@ doc/*
 
 # Ignore everything in the notebooks folder
 notebooks/*
+!notebooks/.gitkeep
 
 # Ignore files with .html extension
 *.html
