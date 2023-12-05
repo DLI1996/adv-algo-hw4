@@ -6,7 +6,8 @@ doc/*
 
 # Ignore everything in the notebooks folder
 notebooks/*
-!notebooks/.gitkeep
+!notebooks/basic-tour.ipynb
+!notebooks/advanced-tour.ipynb
 
 # Ignore files with .html extension
 *.html
